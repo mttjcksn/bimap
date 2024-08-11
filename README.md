@@ -1,4 +1,4 @@
-# serialser
+# bimap
 A container class that allows for fetching key by value and value by key. 
 Supports iterating and (de)serialisation.
 
